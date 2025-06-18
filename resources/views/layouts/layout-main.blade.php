@@ -18,6 +18,8 @@
                 <a class="list-group-item" href="/">Home</a>
                 <a class="list-group-item" href="/about">About</a>
                 <a class="list-group-item" href="/contact">Contact</a>
+                <a class="list-group-item" href="/categories">Categories</a>
+                <a class="list-group-item" href="/posts">Posts</a>
             </div>
         </div>
         <div class="col-md-8 border-left">
